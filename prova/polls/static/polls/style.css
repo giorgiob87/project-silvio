@@ -1,0 +1,17 @@
+ li a {
+    color : white ;
+}
+#body {
+  #  background: #00539A url("") no-repeat;
+}
+
+p, li {
+  font-size: 38px;  
+  font-weight: bold;  
+  line-height: 1;
+  
+}
+
+html {
+  background-color: #00539A;
+}
